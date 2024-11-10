@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Produk A",
+        "deskripsi": "Ini adalah deskripsi untuk Produk A",
+        "harga": 10000,
+        "url": "https://contoh.com/produk-a"
+    },
+    {
+        "nama": "Produk B",
+        "deskripsi": "Ini adalah deskripsi untuk Produk B",
+        "harga": 15000,
+        "url": "https://contoh.com/produk-b"
+    },
+    {
+        "nama": "Produk C",
+        "deskripsi": "Ini adalah deskripsi untuk Produk C",
+        "harga": 20000,
+        "url": "https://contoh.com/produk-c"
+    }
+]
