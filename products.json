@@ -2,19 +2,29 @@
     {
         "nama": "Produk A",
         "deskripsi": "Ini adalah deskripsi untuk Produk A",
-        "harga": 10000,
+        "harga": 0,
+        "kategori": "Free",
         "url": "https://contoh.com/produk-a"
     },
     {
         "nama": "Produk B",
         "deskripsi": "Ini adalah deskripsi untuk Produk B",
         "harga": 15000,
+        "kategori": "One Time Payment",
         "url": "https://contoh.com/produk-b"
     },
     {
         "nama": "Produk C",
         "deskripsi": "Ini adalah deskripsi untuk Produk C",
         "harga": 20000,
+        "kategori": "Subscription Monthly",
+        "url": "https://contoh.com/produk-c"
+    },
+    {
+        "nama": "Produk D",
+        "deskripsi": "Ini adalah deskripsi untuk Produk D",
+        "harga": 25000,
+        "kategori": "Subscription Yearly",
         "url": "https://contoh.com/produk-c"
     }
 ]
