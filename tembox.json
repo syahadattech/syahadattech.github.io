@@ -1,24 +1,84 @@
-[
-  {
-    "category": "Nature",
-    "wallpapers": [
-      {
-        "title": "Forest",
-        "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop"
-      },
-      {
-        "title": "Mountain",
-        "url": "https://images.unsplash.com/photo-1480497490787-505ec10052af?q=80&w=2560&auto=format&fit=crop"
-      }
-    ]
-  },
-  {
-    "category": "Abstract",
-    "wallpapers": [
-      {
-        "title": "Blue Wave",
-        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2560&auto=format&fit=crop"
-      }
-    ]
-  }
-]
+{
+  "wallpapers": [
+    {
+      "id": "1",
+      "title": "Golden Sunset",
+      "category": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "upload_date": "2025-03-20"
+    },
+    {
+      "id": "2",
+      "title": "City Lights",
+      "category": "Urban",
+      "image_url": "https://images.unsplash.com/photo-1519125323398-675f398f6978",
+      "upload_date": "2025-03-21"
+    },
+    {
+      "id": "3",
+      "title": "Mountain Peak",
+      "category": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b",
+      "upload_date": "2025-03-19"
+    },
+    {
+      "id": "4",
+      "title": "Neon Streets",
+      "category": "Urban",
+      "image_url": "https://images.unsplash.com/photo-1498036882173-b41ee40f91f2",
+      "upload_date": "2025-03-18"
+    },
+    {
+      "id": "5",
+      "title": "Ocean Waves",
+      "category": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "id": "6",
+      "title": "Downtown Skyline",
+      "category": "Urban",
+      "image_url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+      "upload_date": "2025-03-16"
+    },
+    {
+      "id": "7",
+      "title": "Forest Mist",
+      "category": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "upload_date": "2025-03-15"
+    },
+    {
+      "id": "8",
+      "title": "Urban Graffiti",
+      "category": "Urban",
+      "image_url": "https://images.unsplash.com/photo-1517248135467-2c7a8b6e9b9f",
+      "upload_date": "2025-03-14"
+    },
+    {
+      "id": "9",
+      "title": "Desert Dunes",
+      "category": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0",
+      "upload_date": "2025-03-13"
+    },
+    {
+      "id": "10",
+      "title": "Night City",
+      "category": "Urban",
+      "image_url": "https://images.unsplash.com/photo-1503428593589-60519e136445",
+      "upload_date": "2025-03-12"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Nature",
+      "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?fit=crop&w=200&h=200"
+    },
+    {
+      "name": "Urban",
+      "thumbnail": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?fit=crop&w=200&h=200"
+    }
+  ]
+}
